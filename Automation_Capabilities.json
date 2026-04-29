@@ -1,0 +1,11 @@
+{
+  "category": "Intelligent Automations",
+  "developer": "Devmatics Studio",
+  "tools": ["Python 3.x", "Selenium", "BeautifulSoup", "Pandas"],
+  "services_offered": [
+    "Automated Data Scraping",
+    "Custom Business Logic Scripts",
+    "Workflow Integration",
+    "AI-Powered Content Processing"
+  ]
+}
